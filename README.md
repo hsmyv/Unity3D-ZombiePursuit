@@ -1,8 +1,9 @@
 # Unity3D-Zombie Pursuit
-Zombie Pursuit is the mobile game for Andorid. Already is available at the Amazon Store!
+Zombie Pursuit is the mobile game for Andorid. Already is available at the Amazon Store and Huawei App Gallery!
 
 https://www.amazon.com/gp/product/B0CBQMNLSS
 
+https://appgallery.huawei.com/app/C108827547
 
 
 ![iconmain2 largepics](https://user-images.githubusercontent.com/111653544/225540485-fd3a781a-68be-4106-a126-623437afbb18.PNG)
